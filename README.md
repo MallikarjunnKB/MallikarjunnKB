@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello, folks!
+
+My Name is Mallikarjun and I'm a Software Engineer. I'm from Karnataka, living in Bengaluru and currently working at William O'Neil India.
 
 <!--
 **MallikarjunnKB/MallikarjunnKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
